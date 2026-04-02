@@ -303,8 +303,8 @@ body {
 }
 
 .qr-code {
-  width: 280px;
-  height: 280px;
+  width: 220px;
+  height: 220px;
   padding: 0;
   background: white;
   border-radius: 15px;
